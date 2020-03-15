@@ -2,38 +2,33 @@
     {
         "name": "stprf_toolbox",
         "type": "git",
-        "url": "https://github.com/TheGoldLab/Lab_TestRepository.git",
+        "url": "https://github.com/KimInsub/stprf_toolbox.git",
         "update": "never"
     },
     {
        	"name": "cstmodel",
         "type": "local",
-        "url": "file://localhome/insubkim/Documents/experiments/cstmodel",
+        "url": "/localhome/insubkim/Documents/experiments/cstmodel"
     },
     {	
-        "name": "Task_SingleCP_DotsReversal",
+        "name": "PRFmodel",
+        "type": "local",
+        "url": "/localhome/insubkim/Documents/experiments/PRFmodel"
+    },
+    {
+	   "name": "JSONio",
+	   "type": "git",
+	   "url": "https://github.com/gllmflndn/JSONio.git"
+    },
+    {
+        "name": "vistasoft",
+        "type": "local",
+        "url": "/localhome/insubkim/Documents/vistasoft"
+    },
+    {
+        "name": "Psychtoolbox",
         "type": "git",
-        "url": "https://github.com/TheGoldLab/Task_SingleCP_DotsReversal.git",
-        "update": "never",
-        "toolboxRoot": "#Task_SingleCP_DotsReversal"
-    },
-    {
-	"name": "Lab_Matlab_Control",
-	"type": "git",
-        "flavor": "v1.0",
-	"url": "https://github.com/TheGoldLab/Lab_Matlab_Control.git"
-    },
-    {
-	"name": "Lab_Matlab_Utilities",
-	"type": "include"
-    },
-    {
-	"name": "mgl",
-	"type": "git",
-	"url": "https://github.com/justingardner/mgl.git"
-    },
-    {  
-	"name": "mQUESTPlus",
-	"type": "include"
+        "url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3"
     }
 ]
+
