@@ -7,23 +7,23 @@
     },
     {
        	"name": "cstmodel",
-        "type": "local",
-        "url": "/localhome/insubkim/Documents/experiments/cstmodel"
+        "type": "git",
+        "url": "https://github.com/KimInsub/cstmodel.git"
     },
     {	
         "name": "PRFmodel",
-        "type": "local",
-        "url": "/localhome/insubkim/Documents/experiments/PRFmodel"
+        "type": "git",
+        "url": "https://github.com/KimInsub/PRFmodel.git"
     },
     {
-	   "name": "JSONio",
-	   "type": "git",
-	   "url": "https://github.com/gllmflndn/JSONio.git"
+	"name": "JSONio",
+	"type": "git",
+	"url": "https://github.com/gllmflndn/JSONio.git"
     },
     {
         "name": "vistasoft",
-        "type": "local",
-        "url": "/localhome/insubkim/Documents/vistasoft"
+        "type": "git",
+        "url": "https://github.com/KimInsub/vistasoft"
     },
     {
         "name": "Psychtoolbox",
