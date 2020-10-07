@@ -2,33 +2,40 @@
     {
         "name": "stprf_toolbox",
         "type": "git",
-        "url": "https://github.com/KimInsub/stprf_toolbox.git",
-        "update": "never"
+        "url": "https://github.com/KimInsub/stprf_toolbox.git"
     },
     {
        	"name": "cstmodel",
-        "type": "git",
-        "url": "https://github.com/KimInsub/cstmodel.git"
+        "type": "local",
+        "url": "/Users/insubkim/Documents/experiment/spatiotemporal/cstmodel"
     },
     {	
         "name": "PRFmodel",
-        "type": "git",
-        "url": "https://github.com/KimInsub/PRFmodel.git"
+        "type": "local",
+        "url": "/Users/insubkim/Documents/experiment/spatiotemporal/PRFmodel"
     },
     {
-	"name": "JSONio",
-	"type": "git",
-	"url": "https://github.com/gllmflndn/JSONio.git"
+	   "name": "JSONio",
+	   "type": "git",
+       "update": "never",
+	   "url": "https://github.com/gllmflndn/JSONio.git"
     },
     {
         "name": "vistasoft",
-        "type": "git",
-        "url": "https://github.com/KimInsub/vistasoft"
+        "type": "local",
+        "url": "/Users/insubkim/Documents/experiment/spatiotemporal/vistasoft"
     },
     {
         "name": "Psychtoolbox",
         "type": "git",
+        "update": "never",
         "url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3"
+    },
+    {
+        "name": "GLMdenoise",
+        "type": "git",
+        "update": "never",
+        "url": "https://github.com/kendrickkay/GLMdenoise.git"
     }
 ]
 
