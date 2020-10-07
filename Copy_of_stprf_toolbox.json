@@ -6,13 +6,13 @@
     },
     {
        	"name": "cstmodel",
-        "type": "git",
-        "url": "https://github.com/KimInsub/cstmodel"
+        "type": "local",
+        "url": "/Users/insubkim/Documents/experiment/spatiotemporal/cstmodel"
     },
     {	
         "name": "PRFmodel",
-        "type": "git",
-        "url": "https://github.com/KimInsub/PRFmodel"
+        "type": "local",
+        "url": "/Users/insubkim/Documents/experiment/spatiotemporal/PRFmodel"
     },
     {
 	   "name": "JSONio",
@@ -22,8 +22,8 @@
     },
     {
         "name": "vistasoft",
-        "type": "git",
-        "url": "https://github.com/KimInsub/vistasoft"
+        "type": "local",
+        "url": "/Users/insubkim/Documents/experiment/spatiotemporal/vistasoft"
     },
     {
         "name": "Psychtoolbox",
