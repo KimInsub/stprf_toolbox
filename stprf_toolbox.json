@@ -36,6 +36,11 @@
         "type": "git",
         "update": "never",
         "url": "https://github.com/kendrickkay/GLMdenoise.git"
+    },
+  {
+        "name": "Sherlock_data_store",
+        "type": "local",
+        "url": "/Users/insubkim/sherlock_home/project/stPRF_simulation"
     }
 ]
 
