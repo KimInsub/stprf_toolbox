@@ -38,9 +38,9 @@
         "url": "https://github.com/kendrickkay/GLMdenoise.git"
     },
   {
-        "name": "OAK_data_store",
+        "name": "Sherlock_data_store",
         "type": "local",
-        "url": "/Users/insubkim/oak_home/stPRF_simulation"
+        "url": "/Users/insubkim/sherlock_home/project/stPRF_simulation"
     }
 ]
 
