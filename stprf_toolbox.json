@@ -5,9 +5,9 @@
         "url": "https://github.com/KimInsub/stprf_toolbox.git"
     },
     {
-       	"name": "cstmodel",
+       	"name": "stmodel",
         "type": "git",
-        "url": "https://github.com/KimInsub/cstmodel"
+        "url": "https://github.com/KimInsub/stmodel"
     },
     {	
         "name": "PRFmodel",
